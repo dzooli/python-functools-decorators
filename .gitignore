@@ -10,3 +10,11 @@ wheels/
 .venv
 .pytest_cache/
 .env
+
+# IDE and editor files
+.vscode/
+*.vsidx
+/*/FileContentIndex
+*sqlite-journal
+**/CopilotIndices
+.vs/
