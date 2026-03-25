@@ -18,3 +18,5 @@ wheels/
 *sqlite-journal
 **/CopilotIndices
 .vs/
+
+htmlcov
